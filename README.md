@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @prem81930
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+prem81930/prem81930 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+Hi i am prem gurjar
+i am interested in ai&ml
+i am currently learning data science
